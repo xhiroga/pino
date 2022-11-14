@@ -62,7 +62,7 @@
   "devDependencies": {
     "airtap": "4.0.3",
     "benchmark": "^2.1.4",
-    "bole": "^4.0.0",
+    "bole": "^5.0.1",
     "bunyan": "^1.8.14",
     "docsify-cli": "^4.4.1",
     "eslint": "^7.17.0",
